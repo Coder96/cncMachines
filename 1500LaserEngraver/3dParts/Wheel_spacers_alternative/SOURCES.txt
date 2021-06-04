@@ -1,0 +1,4 @@
+Sources for Wheel spacers (alternative)
+
+D-Bot Core-XY 3D Printer (http://www.thingiverse.com/thing:1001065)
+C-Bot 3D Printer (http://www.thingiverse.com/thing:500041)
