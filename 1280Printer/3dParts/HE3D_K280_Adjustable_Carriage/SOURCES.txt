@@ -1,0 +1,3 @@
+Sources for HE3D K280 Adjustable Carriage
+
+Simple adjustable slider clamp for He3D K200,  K280 and similar kossel deltas (http://www.thingiverse.com/thing:3009243)
